@@ -74,17 +74,7 @@ Notes:
   - Run script:
     python "Fine-tuning LLM code v1.0.py"
 
-## Images and visualization
-I did not find stored image files in the repository. The notebooks produce plots (histograms and training logs). To include images in README:
-1. Save notebook plots to files (e.g., docs/images/token_length_hist.png, docs/images/training_loss.png).
-2. Commit them and reference in README:
-   ![Token length histogram](docs/images/token_length_hist.png)
-3. If you want, I can extract the PNGs from the notebook outputs and add them into a docs/images/ folder and update the README to show them.
 
-## Next steps I can do for you
-- Commit this README.md directly to the repository.
-- Extract notebook output images and add them under docs/images/ and update the README to show them.
-- Convert the notebooks to cleaner scripts and add a requirements.txt or environment.yml.
 
 
 
